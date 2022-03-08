@@ -1,0 +1,16 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a demo project on Git and node",
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "Shreya Channi",
+  "license": "ISC"
+}
